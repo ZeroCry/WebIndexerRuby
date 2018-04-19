@@ -1,0 +1,60 @@
+Writing PID to tmp/pids/thin.3000.pid
+Exiting!
+/Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/gems/rack-2.0.4/lib/rack/builder.rb:146:in `to_app': missing run or map statement (RuntimeError)
+	from config.ru:4:in `<main>'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/gems/thin-1.7.2/lib/rack/adapter/loader.rb:33:in `eval'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/gems/thin-1.7.2/lib/rack/adapter/loader.rb:33:in `load'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/gems/thin-1.7.2/lib/thin/controllers/controller.rb:182:in `load_rackup_config'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/gems/thin-1.7.2/lib/thin/controllers/controller.rb:72:in `start'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/gems/thin-1.7.2/lib/thin/runner.rb:203:in `run_command'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/gems/thin-1.7.2/lib/thin/runner.rb:159:in `run!'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/gems/thin-1.7.2/bin/thin:6:in `<top (required)>'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/bin/thin:23:in `load'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/bin/thin:23:in `<main>'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/bin/ruby_executable_hooks:15:in `eval'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/bin/ruby_executable_hooks:15:in `<main>'
+Writing PID to tmp/pids/thin.3000.pid
+Exiting!
+/Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/gems/rack-2.0.4/lib/rack/builder.rb:146:in `to_app': missing run or map statement (RuntimeError)
+	from config.ru:4:in `<main>'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/gems/thin-1.7.2/lib/rack/adapter/loader.rb:33:in `eval'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/gems/thin-1.7.2/lib/rack/adapter/loader.rb:33:in `load'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/gems/thin-1.7.2/lib/thin/controllers/controller.rb:182:in `load_rackup_config'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/gems/thin-1.7.2/lib/thin/controllers/controller.rb:72:in `start'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/gems/thin-1.7.2/lib/thin/runner.rb:203:in `run_command'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/gems/thin-1.7.2/lib/thin/runner.rb:159:in `run!'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/gems/thin-1.7.2/bin/thin:6:in `<top (required)>'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/bin/thin:23:in `load'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/bin/thin:23:in `<main>'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/bin/ruby_executable_hooks:15:in `eval'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/bin/ruby_executable_hooks:15:in `<main>'
+Writing PID to tmp/pids/thin.3000.pid
+Exiting!
+/Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/gems/rack-2.0.4/lib/rack/builder.rb:146:in `to_app': missing run or map statement (RuntimeError)
+	from config.ru:4:in `<main>'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/gems/thin-1.7.2/lib/rack/adapter/loader.rb:33:in `eval'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/gems/thin-1.7.2/lib/rack/adapter/loader.rb:33:in `load'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/gems/thin-1.7.2/lib/thin/controllers/controller.rb:182:in `load_rackup_config'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/gems/thin-1.7.2/lib/thin/controllers/controller.rb:72:in `start'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/gems/thin-1.7.2/lib/thin/runner.rb:203:in `run_command'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/gems/thin-1.7.2/lib/thin/runner.rb:159:in `run!'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/gems/thin-1.7.2/bin/thin:6:in `<top (required)>'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/bin/thin:23:in `load'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/bin/thin:23:in `<main>'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/bin/ruby_executable_hooks:15:in `eval'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/bin/ruby_executable_hooks:15:in `<main>'
+Writing PID to tmp/pids/thin.3000.pid
+Exiting!
+/Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/gems/rack-2.0.4/lib/rack/builder.rb:146:in `to_app': missing run or map statement (RuntimeError)
+	from config.ru:4:in `<main>'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/gems/thin-1.7.2/lib/rack/adapter/loader.rb:33:in `eval'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/gems/thin-1.7.2/lib/rack/adapter/loader.rb:33:in `load'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/gems/thin-1.7.2/lib/thin/controllers/controller.rb:182:in `load_rackup_config'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/gems/thin-1.7.2/lib/thin/controllers/controller.rb:72:in `start'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/gems/thin-1.7.2/lib/thin/runner.rb:203:in `run_command'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/gems/thin-1.7.2/lib/thin/runner.rb:159:in `run!'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/gems/thin-1.7.2/bin/thin:6:in `<top (required)>'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/bin/thin:23:in `load'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/bin/thin:23:in `<main>'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/bin/ruby_executable_hooks:15:in `eval'
+	from /Users/jibaceta/.rvm/gems/ruby-2.3.3@apilim/bin/ruby_executable_hooks:15:in `<main>'
