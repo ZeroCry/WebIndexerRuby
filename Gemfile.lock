@@ -4,14 +4,20 @@ GEM
     daemons (1.2.6)
     eventmachine (1.2.5)
     mustermann (1.0.2)
+    power_assert (0.2.6)
     rack (2.0.4)
     rack-protection (2.0.1)
       rack
+    rack-test (1.0.0)
+      rack (>= 1.0, < 3)
+    rake (10.4.2)
     sinatra (2.0.1)
       mustermann (~> 1.0)
       rack (~> 2.0)
       rack-protection (= 2.0.1)
       tilt (~> 2.0)
+    test-unit (3.1.5)
+      power_assert
     thin (1.7.2)
       daemons (~> 1.0, >= 1.0.9)
       eventmachine (~> 1.0, >= 1.0.4)
@@ -22,7 +28,11 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  rack
+  rack-test
+  rake (= 10.4.2)
   sinatra
+  test-unit
   thin
 
 BUNDLED WITH
