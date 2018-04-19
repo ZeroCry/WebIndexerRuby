@@ -1,22 +1,18 @@
 require 'sinatra'
 require 'json'
 
-class IndexerAPI < Sinatra::Base
+get '/ping' do
+    'pong'
+end
 
-    get '/ping' do
-        'pong'
-    end
+post '/indexit' do
 
-    post '/indexit' do
+end
 
-    end
+get '/indexfor' do
 
-    get '/indexfor' do
+end
 
-    end
-
-    get '/indexes' do
-        
-    end
-
+get '/indexes' do
+    
 end

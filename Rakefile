@@ -1,6 +1,13 @@
 require 'rubygems' 
+require 'rake/testtask'
 
 ENV['RACK_ENV'] ||= 'development'
+
+Rake::TestTask.new do |t|
+    t.libs << "test"
+    t.test_files = FileList['spec/test*.rb']
+    t.verbose = true
+end
 
 namespace :api do
     task :start do
@@ -24,5 +31,7 @@ namespace :api do
         end
         puts 'Server has been Stopped successfully!'
     end
+
+
 end
 
